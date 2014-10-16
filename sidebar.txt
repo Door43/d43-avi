@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[avi:home|Door43 (avi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-avi|d43-avi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-avi/archive/master.zip|d43-avi.zip]]
+
+**Recent Changes**
+{{changes>ns = avi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/avi|Ethnologue data]]
+
